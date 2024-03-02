@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+}
+#head {
+  margin-top: 0;
+
+  width: 100%;
+  height: 600px;
+  background-color: black;
+}
+p.bgcolorwhite {
+  padding-top: 250px;
+  font-size: x-large;
+
+  text-align: center;
+  color: whitesmoke;
+}
+img {
+  height: 400px;
+  width: 300px;
+}
+p.text-white {
+  margin: 0;
+  text-align: center;
+  width: 100%;
+  height: 80px;
+  padding-top: 35px;
+}
+
+.hundred {
+  margin: 0px;
+}
+#awardh1 {
+  text-align: center;
+  border-top: 2px solid black;
+}
+#poetryheading,
+#poemsheading {
+  text-align: center;
+}
